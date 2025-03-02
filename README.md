@@ -1,2 +1,1 @@
-# ppshowsite
-the new and improved ppshow site 
+the original site was killing me pp so I had to change it. To run it easily and safely idk probably use a virtual machine like vmware or use linux or something never trust a random strangers code but anyways past that once u download the file and view that thing with grok 3 or openai o3 just double click it and itll run on your desktop. should be pretty sleek compared to the og, but thats just my opinion 
